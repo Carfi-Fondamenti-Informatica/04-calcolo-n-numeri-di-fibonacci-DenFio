@@ -11,6 +11,10 @@ a=b;
 b=c;
 cout << c << endl;
 
+  }
+}
+Else {
+cout << "errore" << endl;
 }
    return 0;
 }
